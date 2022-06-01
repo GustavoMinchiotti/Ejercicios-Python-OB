@@ -1,4 +1,4 @@
-#diccionario elemplo de clase tema 3 Roman
+#diccionario ejemplo de clase tema 3 Roman
 diccionario = { 
 	"clave": "valor" ,
 	"perro": "animal que ladra" ,
