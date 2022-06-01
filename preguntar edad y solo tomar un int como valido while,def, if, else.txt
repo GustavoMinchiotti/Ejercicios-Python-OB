@@ -1,0 +1,5 @@
+Luego de resuelto este ejercicio encontre esto de casualidad:
+
+https://code.tutsplus.com/tutorials/how-to-handle-exceptions-in-python--cms-28621
+
+ver!!
