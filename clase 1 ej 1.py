@@ -9,3 +9,5 @@ print(mensaje3)
 print()
 var = '¡¡Hola Mundo!!'
 print(var)
+# esta linea es solo para practicar MERGE en git tanto en la terminal como en VS 
+# estoy en la rama nueva ProbarMerge
