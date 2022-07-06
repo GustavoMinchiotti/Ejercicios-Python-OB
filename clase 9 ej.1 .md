@@ -81,6 +81,14 @@ Sirve para elevar, por ejemplo 2 elevado a 4
 ![img_20.png](img_20.png)
 
 **Agregando una función lambda puedo forzar comportamientos**
-33:19
+
+### Función input
+
+Simplemente con la sintaxis adecuada muestra un mensaje en pantalla y queda esperando la respuesta que es almacenada en 
+una variable.
+
+![img_21.png](img_21.png) .... ![img_22.png](img_22.png)
+
+
 
 
