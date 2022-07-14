@@ -1,5 +1,5 @@
 # Clase 9 Open Bootcamp
-
+[//]: <> (This is also a comment.)
 EJ. 1 Crea un script que le pida al usuario una lista de países (separados por comas). Estos se deben almacenar en una lista.
 No debería haber países repetidos (haz uso de set). Finalmente, muestra por consola la lista de países
 ordenados alfabéticamente y separados por comas.
