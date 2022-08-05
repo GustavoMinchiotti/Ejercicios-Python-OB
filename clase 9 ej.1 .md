@@ -27,7 +27,8 @@ Segundo ejemplo importa logging, <https://docs.python.org/3.10/library/logging.h
 
 Para refrescar las funciones built-in: <https://j2logo.com/python/tutorial/espacios-de-nombres-modulos-y-paquetes/>
 
-**Función filter**, aplica una función a todos los elementos de una lista, arroja true o false, y devuelve únicamente los parámetros que cumplen con esa función.
+**Función filter**, aplica una función a todos los elementos de una lista, arroja true o false, y devuelve únicamente 
+los parámetros que cumplen con esa función.
 
 ![img_5.png](img_5.png)
 
