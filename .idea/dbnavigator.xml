@@ -24,7 +24,7 @@
   <component name="DBNavigator.Project.DatabaseBrowserManager">
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
-    <show-object-properties value="true" />
+    <show-object-properties value="false" />
     <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
@@ -33,16 +33,19 @@
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="4fb3dbbb-77cc-4975-a766-4e933539806b" object-ref="schemas/clase11/tables/prueba" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="4fb3dbbb-77cc-4975-a766-4e933539806b" />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="4fb3dbbb-77cc-4975-a766-4e933539806b" dataset="clase11.alumnos" active-filter-id="7c9e1606-8196-4f2c-bdc4-d95d97ccfc3c">
+      <filter id="7c9e1606-8196-4f2c-bdc4-d95d97ccfc3c" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="id" operator="is not null" value="" active="true" />
+      </filter>
+    </filter-actions>
     <filter-actions connection-id="4fb3dbbb-77cc-4975-a766-4e933539806b" dataset="clase11.prueba" active-filter-id="9f238984-29c4-4d4b-9597-dd654c5c954b">
-      <filter id="9f238984-29c4-4d4b-9597-dd654c5c954b" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+      <filter id="9f238984-29c4-4d4b-9597-dd654c5c954b" name="Filter" temporary="false" custom-name="false" type="basic" join-type="AND">
         <condition column="id" operator="is not null" value="" active="true" />
       </filter>
     </filter-actions>
@@ -122,7 +125,7 @@
           <session-management value="true" />
           <ddl-file-binding value="true" />
           <database-logging value="true" />
-          <connect-automatically value="true" />
+          <connect-automatically value="false" />
           <restore-workspace value="true" />
           <restore-workspace-deep value="false" />
           <environment-type value="default" />

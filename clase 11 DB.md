@@ -102,5 +102,12 @@ como en el ejemplo anterior.
 ![img_39.png](img_39.png)
 
 * otra vez un problema ![img_40.png](img_40.png) pero la consulta está bien hecha.
-* VER A PARTIR DE MIN 25 Y VER OTRA VEZ PORQUE NO FUNCIONA EL CODIGO EN PYTHON
+* VER A PARTIR DE MIN 25 Y VER OTRA VEZ PORQUE NO FUNCIONA EL CÓDIGO EN PYTHON
 
+> En este ejercicio tendréis que crear una tabla llamada Alumnos que constará de tres columnas: la columna id de 
+> tipo entero, la columna nombre que será de tipo texto y la columna apellido que también será de tipo texto.
+Una vez generada la tabla, tenéis que insertarle datos, como mínimo tenéis que insertar 8 alumnos a la tabla.
+Por último, tienes que realizar una búsqueda de un alumno por nombre y mostrar los datos por consola.
+
+En síntesis todo lo que fue a través de sql funcionó bien y lo de python dio problemas, el ejercicio resuelto en este 
+caso era muy sencillo. **TERMINO ESTA LECCIÓN QUE ME LLEVÓ MUCHOS DIAS**
